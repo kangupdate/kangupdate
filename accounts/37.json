@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "lexical-raceway-324216",
+  "private_key_id": "555d36e992deaaf1200d6affc9d24aded48e6532",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDoZyVbf3ytCJLq\nBcUM4zLfJZ1lKS8UVt2IpVFhqBEeAFKUsCcdioB5YfiAPjhAtDjCZWembJG4zk5L\nzpmzXPNYiQ6e0XWDS9wmvFkZh8gtULLzAqtq4oDiKT06Qn6zaiL8wLSoKOJgCcdN\nQ5nrXyvVA+WKF8NEANA2wDosrmA6P9E/64Z/vkQEjFLchWMLfNE5xdaUpE4Km8K3\nqy7/4g7pGQomEPC4P2zpkJl/fqlhYHcoH9OKJtRGrQmL46ulzn3v6wZ0AdIYYmsp\n/9DMhitcGlMIDZAAXmZndfcJnWvrVlXwycx4g037k93iQwnnwnNjC10LnXSaX7Nd\nGdkr6GJFAgMBAAECggEANWG34X/zldVB1bJUlES9oycDM8DVeREI2sHKYymVIPSH\nA3NA0NbG8tqvl1lzV11uKizbtYz7ndz5fA0tHddsZ/o3WwCWwv1SSK17s9MOBmai\nbBJBaJA1dX1ufGrYqoJnHfJvrK6TbObiGhu8h6V5LnkyKNmTdxPOv7zAwBGftdER\nwEixGu5nkbk9QR0a4csDhgNangKuePz6452fXEbZpDJ7PlRXagXP1lbbmgdGbvcW\ndjYi60Gvcs7TDpGc+JdDvpE4a/7JyHIGcPgjMBwNgt2qpkseW1lFQhyqAqyTnqfU\nyQBSY5JbHiD7TO5y/GoLyL66RbGosaSP1zRwG7aNQQKBgQD332lItU6cVvf5LPYZ\nGzCTZ1GZL9stY8pVQVH41fJm9Sk/ta+1eq7gHndYi/zIGMaT33y2Dd8BocSLECSm\nEAtDCQFqRJKA/pt0jwNYBy5yr/7txlzJnaSQA3MVW8YaYLdV0VrKwreydBjqNN6B\n1KkDeDJcnMZeIiXkogvafy3k4QKBgQDwBeJ682dJvBJmNpTTCMv34Dsj0acvD7QV\n9vknTWGw9xsw7c5jjAsmEONUIstugYUXOTg0ZPaqqcRrCfBl6X8HwDLuhCe71+y3\n9JKSmUsB4EUaPmdf22GkeLV6A18QYzO15yRTnxRj2g9OFS9FJldTwkvvwFwTogw5\nJCoBxGpF5QKBgAalMbBmU/YzCrDeeLaRmQrKoVBnDQw5eaoxdx4htj72YaW4nD5U\nTK3rgy2Xiy5eI6zBOBm1Y34qtRc5VpIxKewhKK2NqxPUP5yvXNqWTrN6bm43fDNX\ni5rkzMgMztHUN/YQB8wZzkz1edmFk1WNuv5B0a/T8CmD5torUgAImtVhAoGAb1+r\nqbWL9fDo8Lje8dWhH5HSn1pHI1U8EP0au5vyerUOzvNp01NGURGBCqdikhJTeWU5\nqUY4FxTTaX+hJwjjwuryNy7naQhWdT1tTc0HuwUfy3+tZBNeCX1haA5sbCQ7+Goa\ntxqX0YV7mJXH62RRHTKJHeS6VPnahiE7xLopPekCgYEA8sriyBRdvGFpD7kCNmvZ\nH1FyNLJKRkleag1ERW2zTPSAk9wANBao+8jHzF5BFP+ZwABYT6vGMHUm5vUYDNOe\nJG1BgqpgKFEcft1phxuUwo3+NRx/M0w+j7xur5ifydvUgM172TfpKkxLZbhP7LgH\ndjN3wbKBMqL0K7K4zgivwRE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-0a-25vozgiv7ac9a823qddg-1t@lexical-raceway-324216.iam.gserviceaccount.com",
+  "client_id": "111267473657132602808",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-0a-25vozgiv7ac9a823qddg-1t%40lexical-raceway-324216.iam.gserviceaccount.com"
+}
