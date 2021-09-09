@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "konoha-2021",
+  "private_key_id": "52cbb93b4e32b91b704da8a6f31efa52319ee8c1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC9AwExWhcWhsXx\naM2u/WrnCjaIOmClXDLMum0n62K/lDz3gFJZ9j7FUX1P0Qa3r1Anmshq4+BtSTPw\n3sF0S13Ab8/iBiIFCDp8na2dXQ3M8tRmIuVB2tmJFoAo+39OXX/8WR92VgiSonz+\nkL9M3/lCJRB5v07Y0OajPHruW8PRQopKs0WIrovbmJ/I7CSV5u0OfJWBOrOdEYQY\nj158N+hKhhlZeFuoolYzT2V/0+yneedm0A5FjZxdKyEHihlBGEIVgGhHplBg+nSU\n8dhWWu9xrFcYvxt51IlhOCNVp5WI5PbCNAu+L+sHdtL9yrrcl4TXYbICJPlrsMeq\nBoo720QpAgMBAAECggEAK47ItJXdYjyW20ZauCwAedP5szU41oLD1jhUNXHiZOIF\nlsgEsmS0HIbmCQHTuXr2Tto1u6ReMPFAvg6nqGRB67oYvy7Ioj4+ND+mJfCu4H9J\ngWwjRyTnIteDm24x7V5Qw1fKj1vOR/SYN5Yl79Jhv+OIw3XZ9s9Vh2LFta6CFvQI\nCku3sEPBySsIzD1bUJeMX82Qo+hXfWjGPBRmb6vgPoi4Z38eLd3+rIW3dLcaMTr9\ntiGRZ/mTluBH59H7B2IHbG6JZvl2XYAH+l9pFclbieHo7gF99/0Gfna3+UkM6Kpc\nnaPIvrL3GACaz2iRxv9STGB4EtaJrlBUO4yyxZ8acQKBgQDrYoln0jzI728t6Obn\noqXpJQHE8NK5MY5j/+KHAQv833FHovVqzBeEyZIWLfxC4sO/2Pdg07MbqU2t9xqZ\nnox+xw3xVvLVxFuoB3D/QYwJF2f54eoxJMex3eHTcPSP5z3sMKnR2ensWIHV8Qzn\nzSMUf+UqxtZMyXwH5cmxO2uoHQKBgQDNkMFM0nBNhrNaU5W2fAuFUkjJdDOCp07s\nsE0zFEcxq5PlfX+1d83HhbNpR7sJJFeFqPH1TgEFamNGjRKlxFOtgCVgqK6Bu0bR\nqjXi1192lBOrTjdHOoGR+YcfF+wxJcrRjDpMkA1rGRIhEaI57AbvX0maG+wIKujr\n1t4BY4eGfQKBgDpvlgkuSmTf/Ev7fAeZe3Lr+wp3dvj+8oik6An4Go/GsQrFzAOd\nc2FF4XycIfpA7bPdG1zwcZC2cVB0/ieREvQOWsnFejfTraWDY2wbS7aeFvQUP92/\nccwYd43UhwKKt/bBBgfQ/5/rQSBp3XhWlxTpw2zhPCaIBsC3LWFQjSOJAoGAWtPT\n5Pqybj7PLmDyLJBAkubZjFGQlPER2VjIs4IJNvQlw+egrvDBdqAntqPgC1kIZuFQ\nD2Ao6Viphrm8fIvzoRyW50+A04eI8gjwCEu7PWyOCEnl+M3sBDCpuF5cmRamt9Hq\nzHt1wlVwgjYFZOxZ4BhNMA+YSb+T7OiibSCp+A0CgYEAhpt1PFKKT3h11wsZPwZN\nKsK1q4of3doBz3u9y18euURkpWhSiu8IfBDJ5VVeO498wp5ArxPKERyjyaKw1bQw\nwy6aEh/S/apQSt7VyCRuAnMgNw6YWg+BUPUQU+ctZySSubf8mwg5AC8WN+TAWJBM\nQhdkNBdH3qwIpnSJ+Rkllp0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "gamer-sa0mpeahwhqn14oksvg88coc@konoha-2021.iam.gserviceaccount.com",
+  "client_id": "105967362896380525715",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gamer-sa0mpeahwhqn14oksvg88coc%40konoha-2021.iam.gserviceaccount.com"
+}
