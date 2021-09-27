@@ -1,15 +1,15 @@
-[![Slam](https://telegra.ph/file/019996f816db9ed576cff.jpg)](https://t.me/request_ayush)
+[![Slam](https://www.finetoshine.com/wp-content/uploads/2020/07/itachi__s_sharingan_by_kago_woogif-600%C3%97450.gif)](https://t.me/budy_rangerdark)
 
-owner of this repo :- [AYUSH](https://github.com/ayushteke)
-
-
-# all the commits are made from [slam-mirrorbot](https://github.com/SlamDevs/slam-mirrorbot)
-
-## all the credit goes to [slamDevs](https://github.com/SlamDevs)
+owner of this repo :- [AYUSH](https://github.com/kangupdate)
 
 
+# all the commits are made from [slam-mirrorbot](https://github.com/kangupdate)
 
-contact me :- [AYUSH](https://t.me/request_ayush)
+## all the credit goes to [slamDevs](https://github.com/kangupdate)
+
+
+
+contact me :- [AYUSH](https://t.me/budy-rangerdark)
 
 # Slam Mirror Bot
 This is a telegram bot writen in python for mirroring files on the internet to our beloved Google Drive.
