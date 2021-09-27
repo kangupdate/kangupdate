@@ -266,9 +266,9 @@ except KeyError:
 try:
     IMAGE_URL = getConfig('IMAGE_URL')
     if len(IMAGE_URL) == 0:
-        IMAGE_URL = 'https://github.com/tel3gramb0t/Torrent_2_Gdrive_mirrorbot/blob/master/images.jpeg'
+        IMAGE_URL = 'https://www.finetoshine.com/wp-content/uploads/2020/07/itachi__s_sharingan_by_kago_woogif-600%C3%97450.gif'
 except KeyError:
-    IMAGE_URL = 'https://github.com/tel3gramb0t/Torrent_2_Gdrive_mirrorbot/blob/master/images.jpeg'
+    IMAGE_URL = 'https://www.finetoshine.com/wp-content/uploads/2020/07/itachi__s_sharingan_by_kago_woogif-600%C3%97450.gif'
 try:
     STOP_DUPLICATE = getConfig('STOP_DUPLICATE')
     if STOP_DUPLICATE.lower() == 'true':
